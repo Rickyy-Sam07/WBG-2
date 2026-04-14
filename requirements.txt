@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+groq
+python-dotenv
+trafilatura
+PyMuPDF
+Jinja2
+python-multipart
+lxml_html_clean
+pandas
